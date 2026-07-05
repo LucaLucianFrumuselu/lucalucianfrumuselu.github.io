@@ -31,7 +31,7 @@ Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 
 
 **FTSE 100 UK Outlook** — *Independent Research, 2026*
 
-Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework. Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases.
+Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework. Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases and uncertainty in the Middle-East.
 
 [View Report (PDF) →](/FTSE100_Macroeconomic_Outlook.pdf)
 
@@ -53,7 +53,7 @@ Analysed the implications of the Bank of England's June 2026 rate decision (7-2 
 
 **SES Satellites** — Fixed Asset Accounting & Financial Analyst *(Bucharest, March–July 2024)*
 - Built full LBO and DCF models for SES Satellites' €3.09B acquisition of Intelsat, covering capital structure, WACC, EV, IRR, and equity distribution; stress-tested assumptions across WACC, revenue, and E/D ratio scenarios against €2.6B FY2025 revenue and 45.5% adjusted EBITDA
-- Automated financial reporting across 15 European departments using Python and VBA, reconciling valuation gaps between physical purchases and SAP records and improving reporting accuracy by 35%
+- Automated financial reporting across 15 European departments using Python and VBA, reconciling valuation gaps between physical purchases and SAP records, and improving reporting accuracy by 35%
 
 **Sogéco Proriol** — Auditing Intern *(Saint-Étienne, May–July 2023)*
 - Prepared financial statements, including balance sheets, income statements, and audit reports for a portfolio of 15 French SMEs with a combined Net Operating Income of €10 million
