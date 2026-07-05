@@ -27,7 +27,14 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 
 Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 May) and structured Bull/Base/Neutral scenarios with an index range of AUD$8,400–8,800. Flagged copper and gold miners as tactically overweight given BHP's 50% EBITDA copper exposure, and A-REITs as underweight following a 10% YTD index decline.
 
-[View Report (PDF) →](/assets/research/ASX200_Macroeconomic_Outlook_2026.pdf)
+[View Report (PDF) →](/ASX200_Macroeconomic_Outlook_2026.pdf)
+
+**FTSE 100 UK Outlook** — *Independent Research, 2026*
+
+Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework. Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases.
+
+[View Report (PDF) →](/FTSE100_Macroeconomic_Outlook.pdf)
+
 ## Experience
 
 **SES Satellites** — Fixed Asset Accounting & Financial Analyst *(Bucharest, March–July 2024)*
