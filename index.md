@@ -7,6 +7,8 @@ title: Luca-Lucian Frumuselu
 
 MSc Finance upcoming student at UCL | Asset Management & Hedge Fund Research | Bucharest → Lyon → Seoul → London → Sydney
 
+---
+
 ## About
 
 My name is Luca-Lucian Frumuselu, and I am a 21-year-old Romanian finance professional who has just completed a dual degree in Global Business Administration at emlyon Business School and Sungkyunkwan University in Seoul, before starting my MSc in Finance programme at University College London in September 2026.
@@ -14,6 +16,8 @@ My name is Luca-Lucian Frumuselu, and I am a 21-year-old Romanian finance profes
 My work sits at the intersection of macroeconomic analysis and macro investment strategy by building financial models, forming structured and forward-looking market positions, and publishing independent research. I speak Romanian, French, English, Italian, and Korean, and I have lived and studied across three countries.
 
 Outside of finance, I train six days a week at the gym, follow global football closely (supporting France, Romania, and Australia), and Formula One (favourite team being Mercedes), while also aiming at building a career trajectory toward a long-term base in Sydney.
+
+---
 
 ## Publications & Articles
 
@@ -34,6 +38,8 @@ Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 
 Analysed the implications of the Bank of England's June 2026 rate decision (7-2 MPC vote split) through a risk-scenario framework. Identified pharma and defence as the primary capital gains driver at 15% of FTSE 100 H1 2026 gains, driven by structural European defence spending increases and uncertainty in the Middle-East.
 
 [View Report (PDF) →](/FTSE100_Macroeconomic_Outlook.pdf)
+
+---
 
 ## Education
 
