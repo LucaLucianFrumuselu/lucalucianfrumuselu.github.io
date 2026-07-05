@@ -27,7 +27,7 @@ Investigated the performance dynamics of Macro and Event-Driven hedge fund strat
 
 Forecast the Reserve Bank of Australia's rate decision for May 2026 (realised 5 May) and structured Bull/Base/Neutral scenarios with an index range of AUD$8,400–8,800. Flagged copper and gold miners as tactically overweight given BHP's 50% EBITDA copper exposure, and A-REITs as underweight following a 10% YTD index decline.
 
-[View on LinkedIn →](https://www.linkedin.com/posts/luca-frumuselu-715177257_sp-asx-200-market-outlook-activity-7456952868340752385-jn7O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD805kEBITC_7fevIKnmkHUuaDcNO-tcuRE)
+[View Report (PDF) →](/assets/research/ASX200_Macroeconomic_Outlook_2026.pdf)
 ## Experience
 
 **SES Satellites** — Fixed Asset Accounting & Financial Analyst *(Bucharest, March–July 2024)*
