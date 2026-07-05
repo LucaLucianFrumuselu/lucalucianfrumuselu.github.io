@@ -1,2 +1,3 @@
-# LucaLucianFrumuselu.github.io
-Own portfolio website displaying my general work, and hosted freely by GitHub Pages.
+# Luca-Lucian Frumuselu - Personal website portfolio. 
+
+Personal website displaying my profile and general information, built with GitHub Pages and Jekyll.
