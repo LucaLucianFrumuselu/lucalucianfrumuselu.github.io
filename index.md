@@ -1,6 +1,6 @@
 # Luca-Lucian Frumuselu
 
-**MSc Finance upcoming student at UCL | Asset Management & Hedge Fund Research | Bucharest → Lyon → Seoul → London → Sydney**
+MSc Finance upcoming student at UCL | Asset Management & Hedge Fund Research | Bucharest → Lyon → Seoul → London → Sydney
 
 ## About
 
@@ -8,7 +8,7 @@ I am a Romanian finance professional completing a dual degree in Global Business
 
 My work sits at the intersection of quantitative research and macro investment strategy — I build models, form conviction-based market views, and publish independent research. I speak Romanian, French, English, Italian, and Korean, and I have lived and studied across four countries.
 
-Outside of finance, I train six days a week, follow global football closely (supporting France, Romania, and Australia), and am building toward a long-term base in Sydney.
+Outside of finance, I train six days a week, follow global football closely (supporting France, Romania, and Australia) and Formula One (favourite team being Mercedes), and am building toward a long-term base in Sydney.
 
 ## Research
 
