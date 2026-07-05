@@ -1,3 +1,6 @@
+layout: default
+title: Luca-Lucian Frumuselu
+
 # Luca-Lucian Frumuselu
 
 MSc Finance upcoming student at UCL | Asset Management & Hedge Fund Research | Bucharest → Lyon → Seoul → London → Sydney
