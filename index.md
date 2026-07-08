@@ -39,6 +39,11 @@ Analysed the implications of the Bank of England's June 2026 rate decision (7-2 
 
 [View Report (PDF) →](/FTSE100_Macroeconomic_Outlook.pdf)
 
+**OMV AG — LBO / DCF Valuation Model** — *Independent Research, July 2026*
+- Built a fully linked 13-sheet LBO/DCF model on OMV AG (Vienna SE), covering income statement, balance sheet, PPE schedule, debt schedule, WACC (4.2% — live Vienna beta), DCF (Equity Value EUR 24.9B), FCFE, and LBO analysis (base 3% IRR, distressed 66% IRR at 3.0x entry)
+
+[Download Model (Excel) →](/OMV_LBO_DCF_Model.xlsx)
+
 ---
 
 ## Education
